@@ -1,0 +1,16 @@
+h1{
+    background-color: black;
+    color: yellow;
+    padding: 30px;
+    text-align: center;
+    
+}
+.content{
+    height: 130px;
+    background-color: rgb(189, 182, 182);
+    padding: 50px;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    margin: 30px;
+}
